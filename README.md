@@ -2,7 +2,7 @@
 
 here is now a doc link works: [label](#heading here)
 
-[Link Test](#test) | [Redundant Link Test](#test) | [Something Else](#something Else) | [subheading link test](##spaced too!)
+[Link Test](#test) | [Redundant Link Test](#test) | [Something Else](#something-Else) | [subheading link test](##spaced-too!)
 
 ## Test
 
