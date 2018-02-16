@@ -2,7 +2,9 @@
 
 here is now a doc link works: [label](#heading here)
 
-[Link Test](#test) | [Redundant Link Test](#test) | [Something Else](#something-Else) | [subheading link test](##spaced-too!)
+[Link Test](#test) | [Redundant Link Test](#test) | [Something Else](#something) | [subheading link test](#spaced-too!)
+
+
 
 ## Test
 
@@ -13,7 +15,65 @@ here is how a piped link works: [early internet hightlight](http://gothsuptrees.
 |Some stuff in a box?  |
 |--------------------- |
 | dunno how this works yet. Ah, there we go! |
-## Something Else
+
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+space
+
+space
+
+space
+
+space
+
+space
+
+space
+
+## Something
 
 **Some emphasis here**   
 *some other emphasis here*
@@ -27,7 +87,7 @@ everything else here  | what decides table width? Who knows? Oh it autowraps, sw
 ## what controls how much
 
 
-
+m
 
 ## space is between headings?
 
