@@ -2,7 +2,7 @@
 
 here is now a doc link works: [label](#heading here)
 
-[Link Test](#test) | [Redundant Link Test](#test) | [Something Else](#something) | [subheading link test](#spaced-too!)
+[Link Test](#test) | [Redundant Link Test](#test) | [Something Else](#something-else) | [subheading link test](#spaced-too!)
 
 
 
@@ -73,7 +73,7 @@ space
 
 space
 
-## Something
+## Something Else
 
 **Some emphasis here**   
 *some other emphasis here*
