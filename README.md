@@ -1,6 +1,6 @@
 ## Vivian Allen
 
-[Skills](#skills) | [Experience](#experience) | [Projects](#projects) | [Education](#education)
+[Skills](#skills) | [Experience](#experience) | [Projects](#projects) | [Education](#education) | [Interests](#interests) | [Links](#links)
 
 - Former research scientist in evolutionary biomechanics (WHICH IS WHAT) who has JOURNEY TO CODE
 - led challenging research projects and published the results in the BEST JOURNALS IN FIELD.
@@ -85,6 +85,7 @@ Packaged and delivered highly sensitive biological material for medical research
 - carving, casting, sewing, knitting, production of small ornaments and stuff
 - baking, cooking and stuff
 
-## Blog
+## Links
 
-- [Nothing on it yet!](https://medium.com/@mrvivianallen_33899)
+- [Nothing on my blog yet!](https://medium.com/@mrvivianallen_33899)
+- [Academic profile that needs updating](https://www.researchgate.net/profile/Vivian_Allen2)
