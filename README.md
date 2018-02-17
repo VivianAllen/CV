@@ -27,7 +27,7 @@
 
 ## Projects
 |Title | Description | Development Timeframe | Technologies | Testing |
-|--|
+|--|--|--|--|--|
 |lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
 | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
 
