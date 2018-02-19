@@ -84,6 +84,7 @@ Packaged and delivered highly sensitive biological material for medical research
 
 - carving, casting, sewing, knitting, production of small ornaments and stuff
 - baking, cooking and stuff
+- making hot sauce
 
 ## Links
 
