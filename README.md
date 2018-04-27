@@ -1,11 +1,21 @@
 ## Vivian Allen
 
+[PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
+
 [Skills](#skills) | [Experience](#experience) | [Projects](#projects) | [Education](#education) | [Interests](#interests) | [Links](#links)
 
 - Former research scientist in evolutionary biomechanics (WHICH IS WHAT) who has JOURNEY TO CODE
 - led challenging research projects and published the results in the BEST JOURNALS IN FIELD.
 - would like to use problem solving and technical skills I have developed to make things (BIT OF JOB I ALWAYS LIKED).
 - ideal position is something of humanitarian benefit: ngo, healthcare, education, political
+
+
+## PROJECTS
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| 1. 3D mesh mass estimation in Matlab ([Github](https://github.com/VivianAllen/obj_file_mass_properties)) | A set of Matlab functions for estimating the mass of complex 3D shapes, designed to estimate extinct dinosaur mass properties. The first piece of useful software I wrote!  | [Matlab](https://www.mathworks.com/products/matlab.html) | This was written way before I had even heard of TDD! |
+| 2. Takeaway Challenge in Ruby ([Github](https://github.com/VivianAllen/takeaway-challenge)) | A basic, object-based system for creating and managing takeway orders. The weekend homework project for my second week of coding at Makers Academy. By this point I felt like I was starting to become comfortable with OOP principles and TDD. Also my first use of an API (sending order confirmation SMS via. [Twilio](https://www.twilio.com/)) | [Ruby](https://www.ruby-lang.org/en/) | [Rspec for Ruby](http://rspec.info/)|
+
 
 ## Skills
 
