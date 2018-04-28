@@ -1,6 +1,6 @@
 ## Vivian Allen
 
-[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience & skills) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks)
+[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience-&-skills) | [EDUCATION](#education-&-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks)
 
 Full-stack developer with a background in anatomy and biomechanics. I am happiest when I am making things.
 
