@@ -1,17 +1,14 @@
 ## Vivian Allen
 
-[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience & skills) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
+[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience & skills) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks)
 
-- Former research scientist in evolutionary biomechanics (WHICH IS WHAT) who has JOURNEY TO CODE
-- led challenging research projects and published the results in the BEST JOURNALS IN FIELD.
-- would like to use problem solving and technical skills I have developed to make things (BIT OF JOB I ALWAYS LIKED).
-- ideal position is something of humanitarian benefit: ngo, healthcare, education, political
+Full-stack developer with a background in anatomy and biomechanics. I am happiest when I am making things.
 
 
 ## PROJECTS
-| Project       | Summary       | Technologies  | Testing |
+| Project       | Summary       | Tech  | Test Framework |
 | ------------- |---------------| --------------|---------|
-| 1. 3D mesh mass estimation ([Github](https://github.com/VivianAllen/obj_file_mass_properties)) | Matlab functions for estimating the mass properties of complex 3D shapes, designed to work with models of extinct dinosaurs. The first piece of useful software I wrote!  | [Matlab](https://www.mathworks.com/products/matlab.html) | Predates my exposure to TDD! |
+| 1. 3D mesh mass estimation ([Github](https://github.com/VivianAllen/obj_file_mass_properties)) | Matlab functions for estimating the mass properties of complex 3D shapes, designed to work with models of extinct dinosaurs. The first piece of useful software I wrote!  | [MATLAB](https://www.mathworks.com/products/matlab.html) | Predates my exposure to TDD! |
 | 2. Takeaways ([Github](https://github.com/VivianAllen/takeaway-challenge)) | Object-based system for creating and managing takeaway orders. Weekend homework project for second week at Makers Academy. Starting to understand OOP principles and TDD.  First API use (sending order confirmation SMS via. [Twilio](https://www.twilio.com/)) | [Ruby](https://www.ruby-lang.org/en/), [Twilio](https://www.twilio.com/) | [Rspec](http://rspec.info/)|
 | 3. Bowling Scores ([Github](https://github.com/VivianAllen/bowling-challenge))| Single-page web app for calculating bowling scores. Starting to understand dynamic HTML, web frameworks, serving web pages, OOP & TDD for the web. | [JavaScript](https://www.javascript.com/), [Node](https://nodejs.org/en/), [Express](https://expressjs.com/), [EJS](http://ejs.co/) | [Jasmine](https://jasmine.github.io/), [Zombie](http://zombie.js.org/), [Mocha](https://mochajs.org/)|
 |4. Acebook ([Github](https://github.com/VivianAllen/acebook), [app site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com/)) | Social network app built for two-week team project at Makers Academy. A more complex web app with multiple database relationships, user authentication, posting, uploading and storing images. First use of continuous integration/deployment pipeline via [Travis CI](https://travis-ci.org/) to both staging and production servers on [amazon web services](https://aws.amazon.com/). | [Ruby](https://www.ruby-lang.org/en/) on [Rails](http://rubyonrails.org/), [JavaScript]](https://jasmine.github.io/), [JQuery](http://jquery.com/), [Paperclip](https://github.com/thoughtbot/paperclip), [Devise](https://github.com/plataformatec/devise), [AWS-EB](https://aws.amazon.com/elasticbeanstalk/), [Travis CI](https://travis-ci.org/) | [Rspec](http://rspec.info/), [Capybara](http://teamcapybara.github.io/capybara/), [Selenium](https://www.seleniumhq.org/projects/webdriver/), [simpleCov](https://github.com/colszowka/simplecov), [CodeClimate](https://codeclimate.com/) |
@@ -24,7 +21,7 @@ Research scientist in the RVC's [Structure and Motion Laboratory](https://www.rv
 **Friedrich Schiller University, Jena (DE)** (October 2013 to October 2016)  
 Research scientist at the [place](link).
 
-- *Communication:*
+- ***Communication:***
 
   - Lectured anatomy and biomechanics to undergraduate and postgraduate students and staff (including guest lectures at [University College London](https://www.ucl.ac.uk/)).
   - Presented technical reports of project work at major conferences in the US, UK, and DE.
@@ -33,54 +30,53 @@ Research scientist at the [place](link).
   - Consultant for [Discovery Channel dinosaur documentary](https://press.discovery.com/emea/dsc/programs/clash-dinosaurs/).
 
 
-- *Projects & People:*
+- ***Projects & People:***
 
-  - Senior role in major research projects (LINKS)
+  - Time-critical teamwork under high-pressure conditions (performing surgical procedures).
+  - Senior role in [major research project](https://dawndinos.com/).
   - Tutored/Mentored undergraduate student through projects at all levels.
   - Led small teams of students on research expeditions.
-  - Teamwork under high-pressure conditions (surgical procedures).
 
-- *Technical:*
 
-  - Writing data analysis software in [Matlab](https://www.mathworks.com/products/matlab.html) and [Python](https://www.python.org/).
+- ***Technical:***
+
+  - Writing data analysis software in [Matlab](https://github.com/VivianAllen/obj_file_mass_properties) ([example](https://www.mathworks.com/products/matlab.html)) and [Python](https://www.python.org/) ([example](https://github.com/VivianAllen/op-flow-locomotion-analysis)).
   - Mesh generation and editing with CAD ([Blender](https://www.blender.org/), [3DSMax](https://www.autodesk.co.uk/products/3ds-max/overview), [Maya](https://www.autodesk.co.uk/products/maya/overview)) and medical imaging ([AMIRA](https://www.fei.com/software/amira-3d-for-life-sciences/), [MIMICS](http://www.materialise.com/en/medical/software/mimics)) suites.
+  - Scientific animation ([XROMM](http://www.xromm.org/)).
   - Digitising 3D objects via photogrammetry, laser and CT scanning.
 
 ## EDUCATION & QUALIFICATIONS
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 18 to May 18)  
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Intensive training program in Agile Test-Driven OOP, with emphasis on teamwork, pair programming and XP values. [Curriculum here](link).
 
 #### University
 
-- **2007-2011 :** PhD , Royal Veterinary College (UK). Thesis title: The evolution of avian hindlimb conformation and locomotor function. <br/>Committee: Dr. Paul Upchurch (chair), Dr. Sandra Shefelbine, Dr. Stephen M. Gatesy.
+- **2007-2011 :** PhD , [Royal Veterinary College (UK)](https://www.rvc.ac.uk/). Thesis title: The evolution of avian hindlimb conformation and locomotor function. <br/>Committee: Dr. Paul Upchurch (chair), Dr. Sandra Shefelbine, Dr. Stephen M. Gatesy.
 
-- **2004-2005 :** MSc Palaeobiology, University of Bristol (UK)
+- **2004-2005 :** MSc Palaeobiology, [University of Bristol (UK)](http://www.bristol.ac.uk/)
 
-- **2001 - 2004 :** BA Archaeology & Geology, University of Bristol (UK)
+- **2001 - 2004 :** BA Archaeology & Geology, [University of Bristol (UK)](http://www.bristol.ac.uk/)
 
 
 #### Other Qualifications
 
-- Certificate in Practice and Principles of Science Education 1, Royal Veterinary College (UK) – Theory and practice in higher education.
+- Certificate in Practice and Principles of Science Education 1, [Royal Veterinary College (UK)](https://www.rvc.ac.uk/) – Theory and practice in higher education.
 
 - Home Office modules L, E1 PIL A, B, C & K (Theory) - Animal handling and basic surgery.
 
-## Interests
+## HOBBIES
 
-- carving, casting, sewing, knitting, production of small ornaments and stuff
-- baking, cooking and stuff
-- making hot sauce
+I like to make things:
+  - hand-carving wood
+  - soldering copper ornaments
+  - knitting
+  - sewing
+  - hot sauce
+  - bread
+  - photographs
 
-## Links
+## NETWORKS
 
-- [Nothing on my blog yet!](https://medium.com/@mrvivianallen_33899)
-- [Academic profile that needs updating](https://www.researchgate.net/profile/Vivian_Allen2)
+ [LINKEDIN](https://www.linkedin.com/in/vivian-allen-83b660147/) | [MEDIUM](https://medium.com/@mrvivianallen_33899)  | [GOOGLE SCHOLAR](https://scholar.google.co.uk/citations?hl=en&user=_DZjWjoAAAAJ&view_op=list_works&gmla=AJsN-F6ofTZh1NWoDnec6di9KWZJRN94Tc6B7CNOkTfRmQYUvxQIhMs93l87A8QH6ocfVorucj2T6BriN7uzdbtqUhzyrgMwH2DZ9RvFL1AXOWlFlRsfMFo)
