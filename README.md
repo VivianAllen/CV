@@ -1,9 +1,10 @@
 ## Vivian Allen
 
-[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience-and-skills) | [EDUCATION & QUALIFICATIONS](#education-and-qualifications) | [NETWORKS](#networks)
+**[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience-and-skills) | [EDUCATION & QUALIFICATIONS](#education-and-qualifications)**
 
 Full-stack developer with a background in anatomy and biomechanics. I am happiest when I am making things.
 
+[LinkedIn](https://www.linkedin.com/in/vivian-allen-83b660147/) | [Medium](https://medium.com/@mrvivianallen_33899)  | [Google Scholar Profile](https://scholar.google.co.uk/citations?hl=en&user=_DZjWjoAAAAJ&view_op=list_works&gmla=AJsN-F6ofTZh1NWoDnec6di9KWZJRN94Tc6B7CNOkTfRmQYUvxQIhMs93l87A8QH6ocfVorucj2T6BriN7uzdbtqUhzyrgMwH2DZ9RvFL1AXOWlFlRsfMFo)
 
 ## PROJECTS
 | Project       | Summary       | Tech  | Test Framework |
@@ -65,8 +66,3 @@ Research scientist at the [Institut für Zoologie und Evolutionsforschung](http:
 - Certificate in Practice and Principles of Science Education 1, [Royal Veterinary College (UK)](https://www.rvc.ac.uk/) – Theory and practice in higher education.
 
 - Home Office modules L, E1 PIL A, B, C & K (Theory) - Animal handling and basic surgery.
-
-
-## NETWORKS
-
- [LINKEDIN](https://www.linkedin.com/in/vivian-allen-83b660147/) | [MEDIUM](https://medium.com/@mrvivianallen_33899)  | [GOOGLE SCHOLAR](https://scholar.google.co.uk/citations?hl=en&user=_DZjWjoAAAAJ&view_op=list_works&gmla=AJsN-F6ofTZh1NWoDnec6di9KWZJRN94Tc6B7CNOkTfRmQYUvxQIhMs93l87A8QH6ocfVorucj2T6BriN7uzdbtqUhzyrgMwH2DZ9RvFL1AXOWlFlRsfMFo)
