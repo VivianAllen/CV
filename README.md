@@ -49,7 +49,7 @@ Research scientist at the [place](link).
 
 #### Makers Academy (Feb 18 to May 18)  
 
-- Intensive training program in Agile Test-Driven OOP, with emphasis on teamwork, pair programming and XP values. [Curriculum here](link).
+- Intensive training program in Agile Test-Driven OOP, with emphasis on teamwork, pair programming and XP values. [Curriculum here](https://www.makersacademy.com/curriculum/).
 
 #### University
 
