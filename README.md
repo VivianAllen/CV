@@ -40,7 +40,7 @@ Research scientist at the [Institut für Zoologie und Evolutionsforschung](http:
 
 - ***Technical:***
 
-  - Writing data analysis software in [Matlab](https://github.com/VivianAllen/obj_file_mass_properties) ([example](https://www.mathworks.com/products/matlab.html)) and [Python](https://www.python.org/) ([example](https://github.com/VivianAllen/op-flow-locomotion-analysis)).
+  - Writing data analysis software in [Matlab](https://www.mathworks.com/products/matlab.html) ([example](https://github.com/VivianAllen/obj_file_mass_properties)) and [Python](https://www.python.org/) ([example](https://github.com/VivianAllen/op-flow-locomotion-analysis)).
   - Mesh generation and editing with CAD ([Blender](https://www.blender.org/), [3DSMax](https://www.autodesk.co.uk/products/3ds-max/overview), [Maya](https://www.autodesk.co.uk/products/maya/overview)) and medical imaging ([AMIRA](https://www.fei.com/software/amira-3d-for-life-sciences/), [MIMICS](http://www.materialise.com/en/medical/software/mimics)) suites.
   - Scientific animation ([XROMM](http://www.xromm.org/)).
   - Digitising 3D objects via photogrammetry, laser and CT scanning.
