@@ -13,7 +13,7 @@ Full-stack developer with a background in anatomy and biomechanics. I am happies
 | 3. Bowling Scores ([Github](https://github.com/VivianAllen/bowling-challenge))| Single-page web app for calculating bowling scores. Starting to understand dynamic HTML, web frameworks, serving web pages, OOP & TDD for the web. | [JavaScript](https://www.javascript.com/), [Node](https://nodejs.org/en/), [Express](https://expressjs.com/), [EJS](http://ejs.co/) | [Jasmine](https://jasmine.github.io/), [Zombie](http://zombie.js.org/), [Mocha](https://mochajs.org/)|
 |4. Acebook ([Github](https://github.com/VivianAllen/acebook), [app site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com/)) | Social network app built for two-week team project at Makers Academy. A more complex web app with multiple database relationships, user authentication, posting, uploading and storing images. First use of continuous integration/deployment pipeline via [Travis CI](https://travis-ci.org/) to both staging and production servers on [amazon web services](https://aws.amazon.com/). | [Ruby](https://www.ruby-lang.org/en/) on [Rails](http://rubyonrails.org/), [JavaScript]](https://jasmine.github.io/), [JQuery](http://jquery.com/), [Paperclip](https://github.com/thoughtbot/paperclip), [Devise](https://github.com/plataformatec/devise), [AWS-EB](https://aws.amazon.com/elasticbeanstalk/), [Travis CI](https://travis-ci.org/) | [Rspec](http://rspec.info/), [Capybara](http://teamcapybara.github.io/capybara/), [Selenium](https://www.seleniumhq.org/projects/webdriver/), [simpleCov](https://github.com/colszowka/simplecov), [CodeClimate](https://codeclimate.com/) |
 
-## EXPERIENCE & SKILLS
+## EXPERIENCE AND SKILLS
 
 **[Royal Veterinary College, London (UK)](https://www.rvc.ac.uk/)** (November 2013 to January 2018)  
 Research scientist in the RVC's [Structure and Motion Laboratory](https://www.rvc.ac.uk/research/research-centres-and-facilities/structure-and-motion).
@@ -45,7 +45,7 @@ Research scientist at the [place](link).
   - Scientific animation ([XROMM](http://www.xromm.org/)).
   - Digitising 3D objects via photogrammetry, laser and CT scanning.
 
-## EDUCATION & QUALIFICATIONS
+## EDUCATION AND QUALIFICATIONS
 
 #### Makers Academy (Feb 18 to May 18)  
 
