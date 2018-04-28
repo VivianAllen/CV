@@ -16,7 +16,7 @@ Full-stack developer with a background in anatomy and biomechanics. I am happies
 ## EXPERIENCE AND SKILLS
 
 **[Royal Veterinary College, London (UK)](https://www.rvc.ac.uk/)** (November 2013 to January 2018)  
-Research scientist in the RVC's [Structure and Motion Laboratory](https://www.rvc.ac.uk/research/research-centres-and-facilities/structure-and-motion).
+Research scientist in the [Structure and Motion Laboratory](https://www.rvc.ac.uk/research/research-centres-and-facilities/structure-and-motion).
 
 **[Friedrich Schiller University, Jena (DE)](https://www.uni-jena.de/en/start.html)** (October 2011 to October 2013)  
 Research scientist at the [Institut für Zoologie und Evolutionsforschung](http://www.bpf.uni-jena.de/en/Institutes.html).
