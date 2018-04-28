@@ -1,6 +1,6 @@
 ## Vivian Allen
 
-[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience-and-skills) | [EDUCATION & QUALIFICATIONS](#education-and-qualifications) | [HOBBIES](#hobbies) | [NETWORKS](#networks)
+[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience-and-skills) | [EDUCATION & QUALIFICATIONS](#education-and-qualifications) | [NETWORKS](#networks)
 
 Full-stack developer with a background in anatomy and biomechanics. I am happiest when I am making things.
 
@@ -66,16 +66,6 @@ Research scientist at the [Institut für Zoologie und Evolutionsforschung](http:
 
 - Home Office modules L, E1 PIL A, B, C & K (Theory) - Animal handling and basic surgery.
 
-## HOBBIES
-
-I like to make things:
-  - hand-carving wood
-  - soldering copper ornaments
-  - knitting
-  - sewing
-  - hot sauce
-  - bread
-  - photographs
 
 ## NETWORKS
 
