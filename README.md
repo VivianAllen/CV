@@ -1,8 +1,6 @@
 ## Vivian Allen
 
-[PROJECTS](#projects) | [EXPERIENCE](#professional-experience) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
-
-[Skills](#skills) | [Experience](#experience) | [Projects](#projects) | [Education](#education) | [Interests](#interests) | [Links](#links)
+[PROJECTS](#projects) | [EXPERIENCE & SKILLS](#experience & skills) | [EDUCATION](#education-and-qualifications)| [HOBBIES](#hobbies) | [NETWORKS](#networks-and-media)
 
 - Former research scientist in evolutionary biomechanics (WHICH IS WHAT) who has JOURNEY TO CODE
 - led challenging research projects and published the results in the BEST JOURNALS IN FIELD.
@@ -13,56 +11,42 @@
 ## PROJECTS
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
-| 1. 3D mesh mass estimation in Matlab ([Github](https://github.com/VivianAllen/obj_file_mass_properties)) | A set of Matlab functions for estimating the mass of complex 3D shapes, designed to estimate extinct dinosaur mass properties. The first piece of useful software I wrote!  | [Matlab](https://www.mathworks.com/products/matlab.html) | This was written way before I had even heard of TDD! |
-| 2. Takeaway Challenge in Ruby ([Github](https://github.com/VivianAllen/takeaway-challenge)) | A basic, object-based system for creating and managing takeway orders. The weekend homework project for my second week of coding at Makers Academy. By this point I felt like I was starting to become comfortable with OOP principles and TDD. Also my first use of an API (sending order confirmation SMS via. [Twilio](https://www.twilio.com/)) | [Ruby](https://www.ruby-lang.org/en/) | [Rspec for Ruby](http://rspec.info/)|
+| 1. 3D mesh mass estimation ([Github](https://github.com/VivianAllen/obj_file_mass_properties)) | Matlab functions for estimating the mass properties of complex 3D shapes, designed to work with models of extinct dinosaurs. The first piece of useful software I wrote!  | [Matlab](https://www.mathworks.com/products/matlab.html) | Predates my exposure to TDD! |
+| 2. Takeaways ([Github](https://github.com/VivianAllen/takeaway-challenge)) | Object-based system for creating and managing takeaway orders. Weekend homework project for second week at Makers Academy. Starting to understand OOP principles and TDD.  First API use (sending order confirmation SMS via. [Twilio](https://www.twilio.com/)) | [Ruby](https://www.ruby-lang.org/en/), [Twilio](https://www.twilio.com/) | [Rspec](http://rspec.info/)|
+| 3. Bowling Scores ([Github](https://github.com/VivianAllen/bowling-challenge))| Single-page web app for calculating bowling scores. Starting to understand dynamic HTML, web frameworks, serving web pages, OOP & TDD for the web. | [JavaScript](https://www.javascript.com/), [Node](https://nodejs.org/en/), [Express](https://expressjs.com/), [EJS](http://ejs.co/) | [Jasmine](https://jasmine.github.io/), [Zombie](http://zombie.js.org/), [Mocha](https://mochajs.org/)|
+|4. Acebook ([Github](https://github.com/VivianAllen/acebook), [app site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com/)) | Social network app built for two-week team project at Makers Academy. A more complex web app with multiple database relationships, user authentication, posting, uploading and storing images. First use of continuous integration/deployment pipeline via [Travis CI](https://travis-ci.org/) to both staging and production servers on [amazon web services](https://aws.amazon.com/). | [Ruby](https://www.ruby-lang.org/en/) on [Rails](http://rubyonrails.org/), [JavaScript]](https://jasmine.github.io/), [JQuery](http://jquery.com/), [Paperclip](https://github.com/thoughtbot/paperclip), [Devise](https://github.com/plataformatec/devise), [AWS-EB](https://aws.amazon.com/elasticbeanstalk/), [Travis CI](https://travis-ci.org/) | [Rspec](http://rspec.info/), [Capybara](http://teamcapybara.github.io/capybara/), [Selenium](https://www.seleniumhq.org/projects/webdriver/), [simpleCov](https://github.com/colszowka/simplecov), [CodeClimate](https://codeclimate.com/) |
 
+## EXPERIENCE & SKILLS
 
-## Skills
-
-#### Communication
-
-- communciated methods and results of technical papers successfully to broad range of audiences:
- - published string of well recieved articles in major journals (won prize) LINKS
- - presented at major international conference to large audiences
- - written for general audiences for the guardian
- - been interviewed for reuters
- - been advisor for dinosaur tv shows
-- designed and delivered educational lectures and workshops on biomechanics at levels from GCSE to post-graduate
-
-#### Data Analysis
-
-- written and published code for analysis of the mass properties (mass, inertia, centre of mass) of dinosaur reconstructions (Matlab) LINK
-- written and published code for estimation of muscle leverage using muscle volumes segmented from micro CT (Matlab) LINK
-- published statistical studies of anatomical data using Matlab and R LINKS
-
-## Projects
-|Title | Description | Development Timeframe | Technologies | Testing |
-|--|--|--|--|--|
-|lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
-| lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum | lorem ipsum |
-
-## Experience
-
-
-**Royal Veterinary College, London (UK)** (November 2016 to January 2018)  
-*Research Scientist*  
-Triassic Archosaur locomotion project, WHAT I DID  
-
-**Royal Veterinary College, London (UK)** (October 2013 to October 2016)  
-*Research Scientist*  
-Sesamoid function project, WHAT I DID
+**[Royal Veterinary College, London (UK)](https://www.rvc.ac.uk/)** (November 2013 to January 2018)  
+Research scientist in the RVC's [Structure and Motion Laboratory](https://www.rvc.ac.uk/research/research-centres-and-facilities/structure-and-motion).
 
 **Friedrich Schiller University, Jena (DE)** (October 2013 to October 2016)  
-*Research Scientist*  
-Orobates locomotion, WHAT I DID
+Research scientist at the [place](link).
 
-**National Insitute for Biological Standards and Control, Potters Bar (UK)** (June 2011 to September 2011)
-*Post Room*
-Packaged and delivered highly sensitive biological material for medical research
+- *Communication:*
+
+  - Lectured anatomy and biomechanics to undergraduate and postgraduate students and staff (including guest lectures at [University College London](https://www.ucl.ac.uk/)).
+  - Presented technical reports of project work at major conferences in the US, UK, and DE.
+  - Published [award-winning](https://www.rvc.ac.uk/research/news/general/journal-of-anatomy-runner-up-best-paper-prize) papers on project work in [top-level](https://www.nature.com/articles/nature12059) research journals.
+  - Performed outreach work on projects in [London schools](https://dawndinos.com/home/outreach/) and [research fairs](https://www.rvc.ac.uk/research/research-centres-and-facilities/structure-and-motion/news/rvc-at-the-great-british-bioscience-festival-event-attracts-and-inspires-thousands), and blogged for a [major national newspaper](https://www.theguardian.com/science/lost-worlds/2014/mar/20/did-losing-their-tails-make-birds-cock-o-the-walk).  
+  - Consultant for [Discovery Channel dinosaur documentary](https://press.discovery.com/emea/dsc/programs/clash-dinosaurs/).
 
 
+- *Projects & People:*
 
-## Education
+  - Senior role in major research projects (LINKS)
+  - Tutored/Mentored undergraduate student through projects at all levels.
+  - Led small teams of students on research expeditions.
+  - Teamwork under high-pressure conditions (surgical procedures).
+
+- *Technical:*
+
+  - Writing data analysis software in [Matlab](https://www.mathworks.com/products/matlab.html) and [Python](https://www.python.org/).
+  - Mesh generation and editing with CAD ([Blender](https://www.blender.org/), [3DSMax](https://www.autodesk.co.uk/products/3ds-max/overview), [Maya](https://www.autodesk.co.uk/products/maya/overview)) and medical imaging ([AMIRA](https://www.fei.com/software/amira-3d-for-life-sciences/), [MIMICS](http://www.materialise.com/en/medical/software/mimics)) suites.
+  - Digitising 3D objects via photogrammetry, laser and CT scanning.
+
+## EDUCATION & QUALIFICATIONS
 
 #### Makers Academy (start_date to end_date)
 
